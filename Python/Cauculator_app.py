@@ -144,4 +144,4 @@ with tab3:
 # Footer
 st.markdown("---")
 st.markdown("Built with Streamlit. Refresh to clear history.")
-st.markdown("© 2024 Advanced Calculator App")
+st.markdown("©Advanced Calculator App")
