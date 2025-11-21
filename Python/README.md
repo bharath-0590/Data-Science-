@@ -29,14 +29,4 @@ A modern, feature-rich calculator application built with **Streamlit**, supporti
 
 ---
 
-## 📸 Screenshots
-*(Add screenshots here if you want)*
 
----
-
-## 🛠️ Installation
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/yourusername/advanced-scientific-calculator.git
-cd advanced-scientific-calculator
